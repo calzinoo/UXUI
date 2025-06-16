@@ -1,4 +1,4 @@
-Progetto di "Usability user experience and design" della Laurea Magistrale in Informatica Unibo.
+Progetto di "Usability user experience and design" della Laurea Magistrale in Informatica Unibo con valutazione 30/30
 
 E' stato migliorato un sito web attraverso l'utilizzo di guidelines, personas e user testing.
 Per lo sviluppo del desing è stato utilizzato Figma
